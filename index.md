@@ -5,6 +5,6 @@
 ### SpaceGame
 OOP game built in the Processing environment, Winter of 2020.
 
-Image of Running SpaceGame
+![Image of SpaceGame](https://github.com/sophturn/ProgrammingPortfolio/blob/gh-pages/images/spacegame.png?raw=true)
 
 Sorce code avaialable here

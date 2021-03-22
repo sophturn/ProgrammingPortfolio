@@ -7,4 +7,4 @@ OOP game built in the Processing environment, Winter of 2020.
 
 ![Image of SpaceGame](https://github.com/sophturn/ProgrammingPortfolio/blob/gh-pages/images/spacegame.png?raw=true)
 
-Sorce code avaialable here
+Source Code available [here](https://github.com/sophturn/ProgrammingPortfolio/tree/gh-pages/src/SpaceGame)

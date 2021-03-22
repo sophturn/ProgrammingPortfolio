@@ -12,5 +12,8 @@ Source Code available [here](https://github.com/sophturn/ProgrammingPortfolio/tr
 ## Repl Projects
 
 ### Madlibs App
-Text based Madlibs game built in the Repl environment, Winter 2021.
+Text based Madlibs game built in the Repl environment, Spring 2021.
 
+![Image of Madlibs App]()
+
+Source Code available [here]()

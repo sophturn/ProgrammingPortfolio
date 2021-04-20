@@ -10,6 +10,10 @@ OOP game built in the Processing environment, Winter of 2020.
 
 Source Code available [here](https://github.com/sophturn/ProgrammingPortfolio/tree/gh-pages/src/SpaceGame)
 
+Executable for Windows available [here](https://github.com/sophturn/ProgrammingPortfolio/blob/gh-pages/src/SpaceGame/application.windows64.zip)
+
+Executable for MacOS available [here](https://github.com/sophturn/ProgrammingPortfolio/blob/gh-pages/src/SpaceGame/application.macosx.zip)
+
 ### Calculator
 OOP GUI calculator built in the Processing environment, Winter of 2020.
 

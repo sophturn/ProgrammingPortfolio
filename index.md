@@ -1,5 +1,5 @@
 # Sophia Turner's Programming Works Folder 2021
-Sophia Turner [email](mailto:squeakerwheek@gmail.com)
+Sophia Turner [Email](mailto:sophiaturner1@hotmail.com), [Gmail](mailto:squeakerwheek@gmail.com)
 
 ## Processing Projects
 

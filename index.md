@@ -19,6 +19,8 @@ Source Code available [here](https://github.com/sophturn/ProgrammingPortfolio/tr
 
 Executable for Windows available [here](https://github.com/sophturn/ProgrammingPortfolio/blob/gh-pages/src/Calculator/application.windows64.zip)
 
+Executable for MacOS available [here](https://github.com/sophturn/ProgrammingPortfolio/blob/gh-pages/src/Calculator/application.macosx.zip)
+
 ### EtchaSketch
 OOP game built in the Processing enviornment, Fall of 2020.
 

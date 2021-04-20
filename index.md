@@ -9,7 +9,16 @@ OOP game built in the Processing environment, Winter of 2020.
 
 Source Code available [here](https://github.com/sophturn/ProgrammingPortfolio/tree/gh-pages/src/SpaceGame)
 
-## Repl Projects
+### Calculator
+OOP GUI calculator built in the Processing environment, Winter of 2020.
+
+![Image of Calculator](https://github.com/sophturn/ProgrammingPortfolio/blob/gh-pages/images/calculator.png)
+
+Source Code available [here](https://github.com/sophturn/ProgrammingPortfolio/tree/gh-pages/src/Calculator)
+
+Executable for Windows available [here](https://github.com/sophturn/ProgrammingPortfolio/blob/gh-pages/src/Calculator/application.windows64.zip)
+
+## Python Projects
 
 ### Madlibs App
 Text based Madlibs game built in the Repl environment, Spring 2021.

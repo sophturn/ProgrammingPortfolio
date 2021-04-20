@@ -28,6 +28,14 @@ Executable for MacOS available [here](https://github.com/sophturn/ProgrammingPor
 ### EtchaSketch
 OOP game built in the Processing enviornment, Fall of 2020.
 
+![Image of EtchaSketch](https://github.com/sophturn/ProgrammingPortfolio/blob/gh-pages/images/EtchaSketch.png)
+
+Source Code available [here](https://github.com/sophturn/ProgrammingPortfolio/tree/gh-pages/src/EtchaSketch/Etch_A_Sketch)
+
+Executable for Windows available [here](https://github.com/sophturn/ProgrammingPortfolio/blob/gh-pages/src/EtchaSketch/application.windows64.zip)
+
+Executable for MacOS available [here](https://github.com/sophturn/ProgrammingPortfolio/blob/gh-pages/src/EtchaSketch/application.macosx.zip)
+
 ## Python Projects
 
 ### Madlibs App

@@ -44,3 +44,10 @@ Text based Madlibs game built in the Repl environment, Spring 2021.
 ![Image of Madlibs App](https://github.com/sophturn/ProgrammingPortfolio/blob/gh-pages/images/madlibsapp.png?raw=true)
 
 Source Code available [here](https://github.com/sophturn/ProgrammingPortfolio/tree/gh-pages/src/ConsoleMadlibsApp)
+
+### ItsADate
+Text based age calculator built in the Repl environment, Spring 2021.
+
+![Image of Madlibs App]()
+
+Source Code available [here](https://github.com/sophturn/ProgrammingPortfolio/tree/gh-pages/src/ItsADate)

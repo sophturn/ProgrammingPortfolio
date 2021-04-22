@@ -48,6 +48,6 @@ Source Code available [here](https://github.com/sophturn/ProgrammingPortfolio/tr
 ### ItsADate
 Text based age calculator built in the Repl environment, Spring 2021.
 
-![Image of ItsADate App]()
+![Image of ItsADate App](https://github.com/sophturn/ProgrammingPortfolio/blob/gh-pages/images/ItsADate.png)
 
 Source Code available [here](https://github.com/sophturn/ProgrammingPortfolio/tree/gh-pages/src/ItsADate)

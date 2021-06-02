@@ -14,13 +14,6 @@ from cave import Cave
 
 #3 bokemons: belldolpine, kennen, meisterBeast
 
-#Belldolpine.work()
-
-#PaintbrushTown.work()
-
-#Cave.work()
-
-
 def main():
   intro()
   global PK
@@ -148,4 +141,4 @@ def intro():
 
 
 
-#main()
+main()

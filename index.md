@@ -1,7 +1,9 @@
 # Sophia Turner's Programming Works Folder
 Sophia Turner [Email](mailto:squeakerwheek@gmail.com)
 
-## Final Project 2021
+# 2021
+
+## Final Project
 OOP text-based adventure game, built in Python, Spring of 2021
 
 ![Image of Final Project Start Screen](https://github.com/sophturn/ProgrammingPortfolio/blob/gh-pages/images/Final%20Project%20Start%20Screen.png?raw=true)
@@ -10,7 +12,7 @@ OOP text-based adventure game, built in Python, Spring of 2021
 
 Source Code available [here](https://github.com/sophturn/ProgrammingPortfolio/tree/gh-pages/src/Python-game)
 
-## Processing Projects 2021
+## Processing Projects
 
 ### SpaceGame
 OOP game built in the Processing environment, Winter of 2020.
@@ -45,7 +47,7 @@ Executable for Windows available [here](https://github.com/sophturn/ProgrammingP
 
 Executable for MacOS available [here](https://github.com/sophturn/ProgrammingPortfolio/blob/gh-pages/src/EtchaSketch/application.macosx.zip)
 
-## Python Projects 2021
+## Python Projects
 
 ### Madlibs App
 Text based Madlibs game built Spring 2021.
@@ -60,3 +62,5 @@ Text based age calculator built Spring 2021.
 ![Image of ItsADate App](https://github.com/sophturn/ProgrammingPortfolio/blob/gh-pages/images/ItsADate.png)
 
 Source Code available [here](https://github.com/sophturn/ProgrammingPortfolio/tree/gh-pages/src/ItsADate)
+
+# 2022

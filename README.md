@@ -1,2 +1,1 @@
 # Programming Portfolio
-## Sophia Turner

@@ -1,4 +1,4 @@
-# Programming Works Portfolio
+# Programming Portfolio
 Sophia Turner [Email](mailto:squeakerwheek@gmail.com)
 
 ## Certifications

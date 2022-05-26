@@ -1,6 +1,8 @@
 # Sophia Turner's Programming Works Folder
 Sophia Turner [Email](mailto:squeakerwheek@gmail.com)
 
+## Certifications
+
 # 2021
 
 ## Final Project
@@ -62,9 +64,6 @@ Text based age calculator built Spring 2021.
 ![Image of ItsADate App](https://github.com/sophturn/ProgrammingPortfolio/blob/gh-pages/images/ItsADate.png)
 
 Source Code available [here](https://github.com/sophturn/ProgrammingPortfolio/tree/gh-pages/src/ItsADate)
-
-## Certifications
-
 
 # 2022
 

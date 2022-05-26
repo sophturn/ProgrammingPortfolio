@@ -63,4 +63,11 @@ Text based age calculator built Spring 2021.
 
 Source Code available [here](https://github.com/sophturn/ProgrammingPortfolio/tree/gh-pages/src/ItsADate)
 
+## Certifications
+
+
 # 2022
+
+## Group Project
+
+## Individual Projects

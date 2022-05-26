@@ -2,6 +2,7 @@
 Sophia Turner [Email](mailto:squeakerwheek@gmail.com)
 
 ## Certifications
+State Certification in Java, Python, C++, C#, and VB
 
 # 2021
 

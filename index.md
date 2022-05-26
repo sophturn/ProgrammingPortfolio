@@ -1,4 +1,4 @@
-# Sophia Turner's Programming Works Folder
+# Programming Works Portfolio
 Sophia Turner [Email](mailto:squeakerwheek@gmail.com)
 
 ## Certifications
